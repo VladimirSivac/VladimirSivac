@@ -23,6 +23,6 @@
 
 ### 📚 Currently Learning
 ```text
-🌱 English Skills   █████████░ 90% 
-🌱 Web Development  ██████░░░░ 60%
-🌱 C# Fundamentals  ████░░░░░░ 40%
+🌱 English Skills   
+🌱 Web Development 
+🌱 C# Fundamentals  
